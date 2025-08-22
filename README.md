@@ -28,5 +28,5 @@ this is a popular african delicacy made with rice.
  ### the cooking
 
  ### what it looks like
-
+![pic of jollof](image.png)
  ### what you can add 
